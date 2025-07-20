@@ -1,0 +1,24 @@
+{
+  "name": "hot-or-not-backend",
+  "version": "1.0.0",
+  "description": "Full-stack hot-or-not voting app with Express and SQLite",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "express",
+    "sqlite3",
+    "multer",
+    "hot-or-not",
+    "voting-app"
+  ],
+  "author": "YourName",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "multer": "^2.0.2",
+    "sqlite3": "^5.1.6"
+  }
+}
